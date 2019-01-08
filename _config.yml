@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: blog
 subtitle:
-description:
-keywords:
-author: John Doe
-language:
+description: 王瑞冬的个人笔记
+keywords: Raydom,王瑞冬,个人笔记,前端开发
+author: Raydom
+language: 
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:id/
 permalink_defaults:
 
 # Directory
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: vexo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
