@@ -1,6 +1,6 @@
 title: 'hexo: 1.使用 Hexo 搭建博客'
 author: John Doe
-tags: []
+tags: [hexo,起步]
 categories: []
 date: 2019-01-07 14:24:00
 ---

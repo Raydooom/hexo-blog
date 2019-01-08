@@ -1,7 +1,7 @@
 title: Git 常用命令
 author: John Doe
 date: 2019-01-07 14:36:14
-tags:
+tags: [git命令]
 
 ---
 
