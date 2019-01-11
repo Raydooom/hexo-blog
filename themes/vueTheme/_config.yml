@@ -1,0 +1,74 @@
+author: Raydom Wang # 作者
+description: Raydom's blog
+keyword: Raydom,blog,web,note
+favicon: 
+
+excerpt_link: 查看更多
+
+menu:
+ 首页: /
+ Tags: /tags/
+ Archives: /archives/
+ Projects: /project/
+ About: /about/
+
+# highlight
+highlight: tomorrow-night-eighties #monokai-sublime
+
+# catalog
+catalog: true
+
+# donate
+donate: true
+
+# qrcode
+qrcode: true
+
+# comment
+# you can set gitment, uyan or disqus
+
+
+comment: valine
+
+
+valine:
+  enable: true
+  appid:  2cKuBlxbLdVTRPoCVN2Nbmxu-gzGzoHsz
+  appkey: KBkBAYaw6SmxIMb59zXqpAbH
+  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: false # Verification code
+  placeholder: ヾﾉ≧∀≦)o来啊，快活啊! 
+  guest_info: nick,mail,link
+  pageSize: 10
+  avatar: wavatar
+  visitor: true 
+
+# gitment config
+gitment_owner: raydom007@163.com
+gitment_repo: blog_comment
+gitment_oauth_id: 
+gitment_oauth_secret: 
+
+# uyan config
+# if you want to use uyan as your blog comment, plz remove/comment out gitment config
+baidu_id: 
+
+# disqus config
+disqus_shortname: 
+
+about: 
+  banner: http://file.muyutech.com/about.jpg
+  avatar: https://avatars3.githubusercontent.com/u/16443628?v=3&s=460
+  description: "The end is always near."
+  weibo_username: 
+  twitter_username: 
+  github_username: 
+  zhihu_username: 
+  douban_username: 
+  linkedin_username:
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: false
+  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
